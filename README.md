@@ -38,9 +38,10 @@ This initiative aims to automate the import and analysis of restaurant data, pro
 - A SQL Server view named `SegmentWiseData` is created using the imported data. This view is then imported into PowerBI for additional insights.
 
 ### Repository Contents
-1. **CSV Files:**
+1. **Files:**
     - `Spice Advisors _ Funnel metrics 1.csv`: Example raw data file for reference.
     - `Reporting_Automation_T-SQL_Code.sql`: SQL script file with codes to create stored procedures and views.
+    - `Restaurant Data Report.pbix`: The Power BI file which contain the dashboard with all the visuals
 
 2. **Screenshots:**
 
