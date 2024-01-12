@@ -23,15 +23,6 @@ This initiative aims to automate the import and analysis of restaurant data, pro
 - **Financial Decision-Making:** Make informed decisions on discounts and promotions by understanding overall and segment-specific performance.
 
 
-### Getting Started
-1. Clone the repository to your local machine.
-2. Execute the SQL script in `stored_procedures_and_views.sql` to create necessary stored procedures and views.
-3. Configure the SQL Server job to run the `DataImport` procedure on a daily schedule.
-
-Explore the PowerBI dashboard to glean valuable insights and empower data-driven decision-making.
-
-Happy analyzing!
-
 ## Project Components
 
 ### 1. Data Import
@@ -52,6 +43,7 @@ Happy analyzing!
     - `stored_procedures_and_views.sql`: SQL script file with codes to create stored procedures and views.
 
 2. **Screenshots:**
+
    - PowerBI Dashboard: ![WhatsApp Image 2024-01-13 at 1 44 59 AM](https://github.com/AritraRick/Automated-Restaurant-Data-Reporting-System-ARDS-/assets/156344506/81150394-f419-4aed-bf3a-1006a3e92fe8)
    - Folder Path: ![WhatsApp Image 2024-01-13 at 1 56 39 AM (1)](https://github.com/AritraRick/Automated-Restaurant-Data-Reporting-System-ARDS-/assets/156344506/44a16f26-ce79-4ad3-be66-4ed95c417080)
 
