@@ -39,8 +39,8 @@ This initiative aims to automate the import and analysis of restaurant data, pro
 
 ### Repository Contents
 1. **CSV Files:**
-    - `oct_funnel_sample.csv`: Example raw data file for reference.
-    - `stored_procedures_and_views.sql`: SQL script file with codes to create stored procedures and views.
+    - `Spice Advisors _ Funnel metrics 1.csv`: Example raw data file for reference.
+    - `Reporting_Automation_T-SQL_Code.sql`: SQL script file with codes to create stored procedures and views.
 
 2. **Screenshots:**
 
