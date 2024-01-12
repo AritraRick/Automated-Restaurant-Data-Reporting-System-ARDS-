@@ -53,7 +53,7 @@ Happy analyzing!
 
 2. **Screenshots:**
    - PowerBI Dashboard: ![WhatsApp Image 2024-01-13 at 1 44 59 AM](https://github.com/AritraRick/Automated-Restaurant-Data-Reporting-System-ARDS-/assets/156344506/81150394-f419-4aed-bf3a-1006a3e92fe8)
-   - Folder Path: 
+   - Folder Path: ![WhatsApp Image 2024-01-13 at 1 56 39 AM (1)](https://github.com/AritraRick/Automated-Restaurant-Data-Reporting-System-ARDS-/assets/156344506/44a16f26-ce79-4ad3-be66-4ed95c417080)
 
 ## Getting Started
 1. Clone the repository to your local machine.
